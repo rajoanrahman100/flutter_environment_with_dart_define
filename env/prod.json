@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://prod.example.com",
+  "apiKey": "some_key_for_PROD",
+  "secret": "some_secret_for_PROD"
+}

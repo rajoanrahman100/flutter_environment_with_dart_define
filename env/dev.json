@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://dev.example.com",
+  "apiKey": "some_key_for_DEV",
+  "secret": "some_secret_for_DEV"
+}

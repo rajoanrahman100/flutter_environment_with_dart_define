@@ -4,6 +4,6 @@ class EndPoints{
 }
 
 //command line while calling the environment type
-/** flutter run --dart-define-file=env/dev.json **/
-/** flutter run --dart-define-file=env/prod.json **/
-/** flutter run --dart-define-file=env/stg.json **/
+/** flutter run --dart-define-from-file=env/dev.json **/
+/** flutter run --dart-define-from-file=env/prod.json **/
+/** flutter run --dart-define-from-file=env/stg.json **/

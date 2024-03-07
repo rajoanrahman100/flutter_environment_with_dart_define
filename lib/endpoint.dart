@@ -1,5 +1,5 @@
 class EndPoints{
-  static const String baseUrl=String.fromEnvironment('baseUrl'); // 'baseUrl' is the key name we have declared in the env directory
+  static const String baseUrl=String.fromEnvironment('baseUrl'); // 'baseUrl' is the key name we have declared in the env directory and only belong to dev, stg and prod
   static const String getInfo= "/api/getInfo";
 }
 

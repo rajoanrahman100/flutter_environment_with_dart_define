@@ -42,5 +42,5 @@ jobs:
 
 
 
-# push to master, main, develop
-# pull request on main master
+# push to master and main
+# pull request on main and master
